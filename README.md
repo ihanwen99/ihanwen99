@@ -8,7 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML     19 mins         ███████████████▒░░░░░░░░░   61.05 %
+C++      8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+Python   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Go       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->

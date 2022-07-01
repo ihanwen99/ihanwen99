@@ -1,5 +1,7 @@
 ### Hi, I'm Hanwen 👋
 
+🌱 I’m currently learning Distributed System
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning Distributed System
 
+📊 **The last 7 days I spent my time on** 
 <!--START_SECTION:waka-->
 
 ```text

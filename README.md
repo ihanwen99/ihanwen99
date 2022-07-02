@@ -8,6 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 24 June 2022 - To: 01 July 2022
+
+Total Time: 32 mins
+
 YAML     19 mins         ███████████████▒░░░░░░░░░   61.05 %
 C++      8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
 Python   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %

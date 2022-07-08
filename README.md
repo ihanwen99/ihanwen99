@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 June 2022 - To: 06 July 2022
+From: 30 June 2022 - To: 07 July 2022
 
-Total Time: 7 hrs 50 mins
+Total Time: 8 hrs 20 mins
 
-C++          3 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.89 %
-Jupyter      2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-YAML         1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-Python       1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+C++          3 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.76 %
+Jupyter      2 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+YAML         1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Python       1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+Other        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->

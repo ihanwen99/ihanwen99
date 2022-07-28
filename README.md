@@ -9,11 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
+From: 20 July 2022 - To: 27 July 2022
 
-Python       1 hr 18 mins    █████████████████████░░░░   83.68 %
-Jupyter      15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python       1 hr 12 mins    ██████████████████████░░░   87.35 %
+Jupyter      9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

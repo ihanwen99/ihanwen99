@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 12 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 C++        29 mins         ████████████████████████▓   98.94 %
 Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %

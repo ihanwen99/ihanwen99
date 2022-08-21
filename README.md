@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 August 2022 - To: 18 August 2022
+From: 12 August 2022 - To: 19 August 2022
 
-C++        29 mins         ███████████████████████▒░   92.67 %
-Python     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

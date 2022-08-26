@@ -9,7 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 August 2022 - To: 25 August 2022
+
+HTML         43 mins         ███████████▓░░░░░░░░░░░░░   47.25 %
+TypeScript   43 mins         ███████████▓░░░░░░░░░░░░░   47.18 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->

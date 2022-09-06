@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-Total Time: 5 hrs 3 mins
+Total Time: 5 hrs 4 mins
 
-Jupyter         1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Python          1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-HTML            52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-TypeScript      37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-JSON            28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Markdown        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Jupyter         1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   28.13 %
+Python          1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+HTML            52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+TypeScript      37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+JSON            28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Markdown        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at every 00:01AM UTC
-    - cron: "1 0 * * *"
+    # Runs at every 01:00AM UTC
+    - cron: "0 1 * * *"
 
 jobs:
   update-readme:

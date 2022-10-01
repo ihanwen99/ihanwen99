@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 29 September 2022
+From: 23 September 2022 - To: 30 September 2022
 
-Total Time: 3 hrs 35 mins
+Total Time: 8 hrs 8 mins
 
-Python           3 hrs 11 mins   ██████████████████████░░░   88.38 %
-JSON             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-CSV              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python           7 hrs 30 mins   ███████████████████████░░   92.07 %
+JSON             30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+CSV              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->

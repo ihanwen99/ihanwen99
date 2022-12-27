@@ -9,13 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-Total Time: 12 hrs 16 mins
+Total Time: 6 hrs 57 mins
 
-C                  10 hrs 13 mins  ███████████████████░░░░░░   75.77 %
-Markdown           1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Other              1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+C                  6 hrs 6 mins    ████████████████████░░░░░   79.89 %
+Other              40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
 ```
 
 <!--END_SECTION:waka-->

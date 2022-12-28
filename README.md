@@ -9,12 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Total Time: 6 hrs 57 mins
+Total Time: 1 min
 
-C                  6 hrs 6 mins    ████████████████████░░░░░   79.89 %
-Other              40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Other   8 mins          █████████████████████░░░░   84.63 %
 ```
 
 <!--END_SECTION:waka-->

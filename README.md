@@ -9,11 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
 Total Time: 1 min
 
-Other   8 mins          █████████████████████░░░░   84.63 %
+C++     0 secs          █████████████▒░░░░░░░░░░░   52.99 %
+C       0 secs          ███████████▓░░░░░░░░░░░░░   46.08 %
+CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->

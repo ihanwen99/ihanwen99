@@ -9,13 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
-
-Total Time: 1 min
-
-C++     0 secs          █████████████▒░░░░░░░░░░░   52.99 %
-C       0 secs          ███████████▓░░░░░░░░░░░░░   46.08 %
-CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

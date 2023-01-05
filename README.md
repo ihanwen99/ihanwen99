@@ -9,7 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 December 2022 - To: 04 January 2023
+
+Total Time: 1 hr 11 mins
+
+Markdown     42 mins         ████████████░░░░░░░░░░░░░   48.48 %
+C            26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+Other        16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
 ```
 
 <!--END_SECTION:waka-->

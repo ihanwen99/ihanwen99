@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
-Total Time: 6 hrs 29 mins
+Total Time: 10 hrs 11 mins
 
-C                3 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   39.31 %
-Markdown         2 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-Other            1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+C                6 hrs 37 mins   █████████████▓░░░░░░░░░░░   55.25 %
+Markdown         2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Other            1 hr 49 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
 ```
 
 <!--END_SECTION:waka-->

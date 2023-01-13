@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Total Time: 33 hrs 38 mins
+Total Time: 32 hrs 4 mins
 
-C                27 hrs 12 mins  ██████████████████░░░░░░░   72.49 %
-Other            3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+C                26 hrs 5 mins   ██████████████████▒░░░░░░   72.98 %
+Other            3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
 ```
 
 <!--END_SECTION:waka-->

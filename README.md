@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 18 January 2023
+From: 12 January 2023 - To: 19 January 2023
 
-Total Time: 14 hrs 26 mins
+Total Time: 13 hrs 37 mins
 
-C                5 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.95 %
-C++              5 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   31.75 %
-Other            2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+C                5 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
+C++              5 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   32.60 %
+Other            2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
 ```
 
 <!--END_SECTION:waka-->

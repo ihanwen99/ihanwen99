@@ -9,13 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 January 2023 - To: 23 January 2023
+From: 17 January 2023 - To: 24 January 2023
 
-Total Time: 11 hrs 1 min
+Total Time: 15 hrs 25 mins
 
-C++              6 hrs 44 mins   ██████████████░░░░░░░░░░░   55.88 %
-TypeScript       1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Other            1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+C++              6 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.13 %
+TypeScript       5 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 %
+HTML             1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Other            56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->

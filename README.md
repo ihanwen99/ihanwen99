@@ -9,13 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-Total Time: 3 hrs 32 mins
+Total Time: 2 hrs 4 mins
 
-Markdown         1 hr 36 mins    ██████████░░░░░░░░░░░░░░░   40.34 %
-TypeScript       1 hr 24 mins    ████████▓░░░░░░░░░░░░░░░░   35.24 %
-Other            27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Markdown         1 hr 40 mins    ████████████████▒░░░░░░░░   65.03 %
+Other            30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 %
 ```
 
 <!--END_SECTION:waka-->

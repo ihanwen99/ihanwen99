@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
-Total Time: 15 hrs 45 mins
+Total Time: 9 hrs 38 mins
 
-Python                     11 hrs 37 mins  ██████████████████▒░░░░░░   73.74 %
-textmate                   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Nginx configuration file   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Vue.js                     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Bash                       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-GitIgnore file             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Python                     5 hrs 59 mins   ███████████████▓░░░░░░░░░   62.18 %
+Nginx configuration file   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+textmate                   51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Vue.js                     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Bash                       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+SQL                        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->

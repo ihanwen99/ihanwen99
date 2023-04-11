@@ -9,12 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Total Time: 1 hr 14 mins
+Total Time: 6 hrs 23 mins
 
-Go           1 hr 10 mins    ███████████████████████▓░   95.25 %
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Go           6 hrs 19 mins   ████████████████████████▓   98.88 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+go.mod       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

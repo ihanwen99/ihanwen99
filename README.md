@@ -9,16 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2023 - To: 15 April 2023
+From: 09 April 2023 - To: 16 April 2023
 
-Total Time: 9 hrs 51 mins
+Total Time: 8 hrs 37 mins
 
-Go           8 hrs 43 mins   ██████████████████████░░░   88.35 %
-Terraform    34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-SSH Config   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-go.mod       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go           7 hrs 32 mins   ██████████████████████░░░   87.36 %
+Terraform    34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+SSH Config   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+go.mod       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->

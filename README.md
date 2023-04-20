@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2023 - To: 18 April 2023
+From: 12 April 2023 - To: 19 April 2023
 
-Total Time: 3 hrs 2 mins
+Total Time: 3 hrs 58 mins
 
-Terraform   2 hrs 16 mins   ██████████████████▓░░░░░░   74.82 %
-YAML        30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Go          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Markdown    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Perl        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Terraform    2 hrs 20 mins   ██████████████▓░░░░░░░░░░   59.10 %
+SSH Config   49 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
+YAML         30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Go           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->

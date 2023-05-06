@@ -9,16 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
-Total Time: 24 hrs 31 mins
+Total Time: 21 hrs 1 min
 
-C++              8 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.85 %
-ObjectiveC       4 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-Terraform        3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-C                2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-CMake            2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Makefile         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+C++              6 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+ObjectiveC       4 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Terraform        3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+C                2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+CMake            1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
 ```
 
 <!--END_SECTION:waka-->

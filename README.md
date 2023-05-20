@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2023 - To: 18 May 2023
+From: 12 May 2023 - To: 19 May 2023
 
-Total Time: 27 hrs 36 mins
+Total Time: 31 hrs 52 mins
 
-C++              8 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-ObjectiveC       7 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-Python           6 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-Markdown         3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Other            2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+C++                 11 hrs 45 mins  ████████▒░░░░░░░░░░░░░░░░   33.96 %
+ObjectiveC          7 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+Python              6 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+Other               2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+CMake               2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->

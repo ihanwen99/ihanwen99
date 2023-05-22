@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2023 - To: 20 May 2023
+From: 14 May 2023 - To: 21 May 2023
 
 Total Time: 34 hrs 24 mins
 
-C++                 12 hrs 52 mins  ████████▓░░░░░░░░░░░░░░░░   34.20 %
+C++                 12 hrs 52 mins  ████████▓░░░░░░░░░░░░░░░░   34.19 %
 ObjectiveC          7 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Python              6 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Other               3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Python              6 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+Other               3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
 CMake               2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 

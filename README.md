@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-Total Time: 25 hrs 56 mins
+Total Time: 18 hrs 52 mins
 
-C++                 10 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   35.86 %
-Python              6 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-ObjectiveC          4 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Other               2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Docker              1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+C++                 7 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   35.81 %
+ObjectiveC          3 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+Other               3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Terraform           1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Docker              1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->

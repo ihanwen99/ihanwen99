@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
-Total Time: 19 hrs 15 mins
+Total Time: 19 hrs 14 mins
 
-ObjectiveC     7 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.62 %
-C++            6 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.49 %
-Other          2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Terraform      2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Python         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+ObjectiveC     7 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 %
+C++            6 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+Other          3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Markdown       1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Python         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->

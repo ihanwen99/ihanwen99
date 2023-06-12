@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-Total Time: 26 hrs
+Total Time: 19 hrs 43 mins
 
-ObjectiveC           11 hrs 2 mins   █████████▓░░░░░░░░░░░░░░░   38.06 %
-C                    5 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Go                   4 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Other                2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-C++                  2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+ObjectiveC           6 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+Go                   4 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+C                    3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Other                2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+C++                  2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
 ```
 
 <!--END_SECTION:waka-->

@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 24 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
-Total Time: 21 hrs 43 mins
+Total Time: 21 hrs 2 mins
 
-C++              10 hrs 9 mins   ███████████░░░░░░░░░░░░░░   43.74 %
-ObjectiveC       8 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   35.09 %
-C                1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Other            1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Terraform        54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+C++              10 hrs          ███████████░░░░░░░░░░░░░░   44.59 %
+ObjectiveC       7 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   35.00 %
+Other            1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+C                1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Terraform        54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->

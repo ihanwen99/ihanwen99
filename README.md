@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Total Time: 21 hrs 52 mins
+Total Time: 26 hrs 5 mins
 
-C++            7 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-Other          5 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Go             4 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-ObjectiveC     2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Python         2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+C++            7 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+Other          6 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Go             6 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+ObjectiveC     2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Python         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 ```
 
 <!--END_SECTION:waka-->

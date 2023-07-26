@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Total Time: 19 hrs 15 mins
+Total Time: 23 hrs 24 mins
 
-C++              7 hrs           █████████░░░░░░░░░░░░░░░░   35.97 %
-Go               6 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   32.55 %
-ObjectiveC       1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-Markdown         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-C                1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Go                   10 hrs 18 mins  ██████████▓░░░░░░░░░░░░░░   42.36 %
+C++                  5 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+Markdown             2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+ObjectiveC           1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+C                    1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->

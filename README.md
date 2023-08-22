@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Total Time: 23 hrs 45 mins
+Total Time: 22 hrs 38 mins
 
-C++              6 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Ezhil            4 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-Python           3 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-ObjectiveC       1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Zed              1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Ezhil            4 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+C++              4 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+Python           3 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Other            1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+ObjectiveC       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
 ```
 
 <!--END_SECTION:waka-->

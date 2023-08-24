@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 22 August 2023
+From: 16 August 2023 - To: 23 August 2023
 
-Total Time: 18 hrs 26 mins
+Total Time: 25 hrs 14 mins
 
-Ezhil            4 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-Python           3 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-C++              2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Other            1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Zed              1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Markdown         5 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Ezhil            4 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+C++              3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Python           3 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Other            2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
 ```
 
 <!--END_SECTION:waka-->

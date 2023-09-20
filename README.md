@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Total Time: 12 hrs 41 mins
+Total Time: 19 hrs 20 mins
 
-C++            6 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.23 %
-Python         1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-ObjectiveC     1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-CSV/TSV        1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Ezhil          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+C++              10 hrs 12 mins  █████████████░░░░░░░░░░░░   52.56 %
+Python           2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+ObjectiveC       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Ezhil            1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+CSV/TSV          1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->

@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2023 - To: 26 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-Total Time: 53 mins
+Total Time: 39 mins
 
-Python         21 mins         █████████░░░░░░░░░░░░░░░░   36.29 %
-C++            8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-ObjectiveC     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-SSH Config     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Other          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Python         13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+C++            8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+ObjectiveC     6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+SSH Config     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Shell Script   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
 ```
 
 <!--END_SECTION:waka-->

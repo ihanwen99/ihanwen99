@@ -8,14 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-Total Time: 1 hr 33 mins
+Total Time: 3 hrs 34 mins
 
-Python           1 hr 32 mins    █████████████████████▓░░░   86.55 %
-Other            12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python           2 hrs 37 mins   ███████████░░░░░░░░░░░░░░   43.78 %
+Other            2 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   40.24 %
+CMake            25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+HTML             23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Bash             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->

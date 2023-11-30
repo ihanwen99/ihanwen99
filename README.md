@@ -8,12 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Total Time: 0 secs
+Total Time: 2 hrs 30 mins
 
-Other   48 mins         ████████████████████████▓   99.04 %
-JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+C++              1 hr 34 mins    ███████████▓░░░░░░░░░░░░░   46.53 %
+Other            53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+ObjectiveC       48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+CMake            5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->

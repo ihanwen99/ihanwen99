@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
-Total Time: 1 hr 6 mins
+Total Time: 1 hr 8 mins
 
-Python       45 mins         ████████████████▒░░░░░░░░   65.87 %
-ObjectiveC   18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-C++          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Python       45 mins         ██████████████▓░░░░░░░░░░   59.19 %
+ObjectiveC   18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Other        8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+C++          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

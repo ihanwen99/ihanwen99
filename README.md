@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 30 January 2024
+From: 24 January 2024 - To: 31 January 2024
 
-Total Time: 21 hrs 37 mins
+Total Time: 20 hrs 14 mins
 
-C++              9 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   40.48 %
-ObjectiveC       8 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.96 %
-Python           2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-CSV              1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+C++              12 hrs          ██████████████▓░░░░░░░░░░   58.34 %
+ObjectiveC       6 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
+Python           27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+CSV              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+CSV/TSV          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->

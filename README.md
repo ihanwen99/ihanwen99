@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-Total Time: 39 hrs 45 mins
+Total Time: 38 hrs 19 mins
 
-C++               22 hrs 14 mins  ████████████▒░░░░░░░░░░░░   49.20 %
-ObjectiveC        8 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Python            5 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Other             5 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-CMake             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+C++               21 hrs 4 mins   ████████████░░░░░░░░░░░░░   47.41 %
+ObjectiveC        9 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+Other             6 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Python            6 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+CMake             43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->

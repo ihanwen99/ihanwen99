@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2024 - To: 05 April 2024
+From: 30 March 2024 - To: 06 April 2024
 
-Total Time: 0 secs
+Total Time: 8 mins
 
-No activity tracked
+Other            5 mins          █████████▓░░░░░░░░░░░░░░░   39.10 %
+CMake            5 mins          █████████░░░░░░░░░░░░░░░░   36.27 %
+C++              2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->

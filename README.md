@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 20 mins
+Total Time: 29 mins
 
-Other            35 mins         ███████████████▓░░░░░░░░░   63.14 %
-C++              8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-ObjectiveC       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-CMake            5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other            35 mins         █████████████▓░░░░░░░░░░░   54.10 %
+C++              9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+CSV/TSV          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+ObjectiveC       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+CMake            5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
 ```
 
 <!--END_SECTION:waka-->

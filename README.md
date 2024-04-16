@@ -8,14 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 29 mins
+Total Time: 48 mins
 
-Other        13 mins         ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-ObjectiveC   11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-CSV/TSV      9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
-C++          8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+TeX          19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+Other        13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+ObjectiveC   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+CSV/TSV      9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+C++          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
 ```
 
 <!--END_SECTION:waka-->

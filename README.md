@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
 Total Time: 2 hrs 52 mins
 
-Python   2 hrs 49 mins   ███████████████████████▓░   95.30 %
-Other    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-CSV      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Python   2 hrs 49 mins   ███████████████████████▓░   94.64 %
+Other    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+CSV      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->

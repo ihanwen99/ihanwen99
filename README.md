@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Total Time: 2 hrs 49 mins
+Total Time: 2 hrs 39 mins
 
-Python   2 hrs 49 mins   ████████████████████████░   95.81 %
-Other    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Python   2 hrs 39 mins   ████████████████████████▓   98.36 %
+Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->

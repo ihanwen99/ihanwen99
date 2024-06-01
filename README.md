@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Total Time: 3 hrs 40 mins
+Total Time: 3 hrs 34 mins
 
-Python       1 hr 54 mins    ██████████▓░░░░░░░░░░░░░░   43.33 %
-C++          49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-ObjectiveC   46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Other        43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python       1 hr 48 mins    ██████████▓░░░░░░░░░░░░░░   42.71 %
+C++          49 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+ObjectiveC   46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Other        39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->

@@ -8,13 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Total Time: 1 hr 1 min
+Total Time: 40 mins
 
-Markdown   40 mins         ████████████████░░░░░░░░░   64.25 %
-TeX        20 mins         ████████░░░░░░░░░░░░░░░░░   32.24 %
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Markdown   40 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

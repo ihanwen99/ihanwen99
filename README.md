@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2024 - To: 09 June 2024
+From: 03 June 2024 - To: 10 June 2024
 
-Total Time: 40 mins
+Total Time: 43 mins
 
-Markdown   40 mins         █████████████████████████   100.00 %
+Markdown     40 mins         ██████████████████████░░░   87.82 %
+Other        3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+ObjectiveC   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+CSV/TSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

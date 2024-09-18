@@ -8,15 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 15 mins
+Total Time: 0 secs
 
-Other            1 hr            ████████████████████░░░░░   80.22 %
-SQL              14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

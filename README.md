@@ -8,11 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Total Time: 0 secs
+Total Time: 1 hr
 
-No activity tracked
+Python     48 mins         ████████████████████░░░░░   80.52 %
+SQL        7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Markdown   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 ```
 
 <!--END_SECTION:waka-->

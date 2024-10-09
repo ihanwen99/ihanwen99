@@ -8,15 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 4 hrs 10 mins
+Total Time: 1 hr 45 mins
 
-Python     3 hrs 50 mins   ██████████████████▓░░░░░░   74.17 %
-Other      1 hr            █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-SQL        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-CSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python     1 hr 45 mins    ██████████████████████▓░░   90.02 %
+Other      11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

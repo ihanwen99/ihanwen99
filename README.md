@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Total Time: 2 hrs 58 mins
+Total Time: 3 hrs 30 mins
 
-Other        5 hrs           ███████████████▓░░░░░░░░░   62.73 %
-Python       2 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   36.19 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        5 hrs 30 mins   ███████████████▒░░░░░░░░░   61.15 %
+Python       3 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.68 %
+SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Roff         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

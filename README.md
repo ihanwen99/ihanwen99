@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 5 hrs 15 mins
+Total Time: 5 hrs 43 mins
 
-Python             4 hrs 8 mins    ███████████████████▓░░░░░   78.67 %
-HTML               39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-SSH Config         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Shell Script       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-MATLAB             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python             4 hrs 16 mins   ██████████████████▓░░░░░░   74.14 %
+HTML               39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+MATLAB             22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+SSH Config         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Shell Script       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->

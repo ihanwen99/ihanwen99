@@ -8,14 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
 Total Time: 27 mins
 
-MATLAB   19 mins         ████████████████▒░░░░░░░░   64.94 %
-Python   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-Other    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+MATLAB   19 mins         ████████████████▒░░░░░░░░   65.52 %
+Python   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+Other    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 ```
 
 <!--END_SECTION:waka-->

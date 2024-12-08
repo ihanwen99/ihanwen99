@@ -8,12 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Total Time: 35 mins
+Total Time: 2 hrs 19 mins
 
-Python   35 mins         ██████████████▓░░░░░░░░░░   58.93 %
-Other    24 mins         ██████████▒░░░░░░░░░░░░░░   41.07 %
+Python             2 hrs 4 mins    █████████████████▒░░░░░░░   69.53 %
+Other              40 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+SSH Config         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Text               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Markdown           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->

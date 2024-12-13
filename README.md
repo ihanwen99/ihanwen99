@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Total Time: 2 hrs 27 mins
+Total Time: 5 hrs 11 mins
 
-Python             2 hrs 4 mins    ██████████████████▓░░░░░░   75.31 %
-Other              17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Markdown           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-SSH Config         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Text               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Markdown           2 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.77 %
+Python             2 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.40 %
+Other              30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+SSH Config         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->

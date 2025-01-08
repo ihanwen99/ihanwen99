@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 3 mins
 
-No activity tracked
+Python     2 hrs 26 mins   ████████████████████░░░░░   79.73 %
+SQL        19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Bash       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

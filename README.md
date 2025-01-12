@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
-Total Time: 5 hrs 15 mins
+Total Time: 5 hrs 17 mins
 
-Python     4 hrs 35 mins   █████████████████████▒░░░   85.60 %
-SQL        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Bash       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python       4 hrs 35 mins   █████████████████████▒░░░   85.05 %
+SQL          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Bash         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->

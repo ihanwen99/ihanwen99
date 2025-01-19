@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 1 hr 35 mins
+Total Time: 2 hrs 54 mins
 
-Python       1 hr 7 mins     ████████████▓░░░░░░░░░░░░   50.73 %
-Other        37 mins         ███████░░░░░░░░░░░░░░░░░░   28.21 %
-SSH Config   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python           1 hr 58 mins    ████████████░░░░░░░░░░░░░   48.47 %
+Other            1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   28.41 %
+HTML             29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+SSH Config       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Bash             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->

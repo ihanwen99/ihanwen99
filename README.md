@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 08 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
-Total Time: 4 hrs 11 mins
+Total Time: 3 hrs 21 mins
 
-Python               3 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.06 %
-Other                3 hrs 47 mins   ████████████░░░░░░░░░░░░░   47.57 %
-ThinClientFileType   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Markdown             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Jupyter              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python     3 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.91 %
+Other      3 hrs 14 mins   ████████████▒░░░░░░░░░░░░   49.09 %
+Jupyter    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+MATLAB     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

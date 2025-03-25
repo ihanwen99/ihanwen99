@@ -8,15 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2025 - To: 23 March 2025
+From: 17 March 2025 - To: 24 March 2025
 
-Total Time: 21 mins
+Total Time: 8 mins
 
-Other        4 hrs 41 mins   ███████████████████████▒░   93.05 %
-SSH Config   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        3 hrs 16 mins   ████████████████████████░   95.70 %
+SSH Config   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->

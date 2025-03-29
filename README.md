@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 27 March 2025
+From: 21 March 2025 - To: 28 March 2025
 
-Total Time: 1 hr 48 mins
+Total Time: 4 hrs 26 mins
 
-Other        4 hrs 20 mins   █████████████████▓░░░░░░░   70.58 %
-HTML         52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-Python       39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-SSH Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-textmate     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other        3 hrs 11 mins   ██████████▒░░░░░░░░░░░░░░   41.79 %
+Python       1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+HTML         57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+SQL          40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+textmate     36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->

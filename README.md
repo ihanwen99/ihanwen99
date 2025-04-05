@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Total Time: 5 hrs 6 mins
+Total Time: 2 hrs 26 mins
 
-Other            2 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   36.30 %
-Python           2 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-SQL              40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-textmate         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-HTML             33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Other            1 hr 50 mins    ██████████▓░░░░░░░░░░░░░░   42.89 %
+Python           1 hr 34 mins    █████████▒░░░░░░░░░░░░░░░   36.73 %
+HTML             28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+C++              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+CMake            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->

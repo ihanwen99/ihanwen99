@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Total Time: 1 hr 25 mins
+Total Time: 3 hrs 57 mins
 
-Other            1 hr 27 mins    ████████████▓░░░░░░░░░░░░   50.66 %
-Python           29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-C++              22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Markdown         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-CMake            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Python             2 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.67 %
+Other              1 hr 52 mins    ████████░░░░░░░░░░░░░░░░░   32.12 %
+C++                22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Markdown           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Docker             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->

@@ -8,15 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
-Total Time: 39 mins
+Total Time: 36 mins
 
-Other        2 hrs 22 mins   ███████████████████▓░░░░░   78.30 %
-Python       36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-ObjectiveC   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    1 hr 55 mins    ███████████████████░░░░░░   76.04 %
+Python   36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 %
 ```
 
 <!--END_SECTION:waka-->

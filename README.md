@@ -8,11 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 17 mins
 
-No activity tracked
+Python    1 hr 26 mins    ███████████████▓░░░░░░░░░   62.89 %
+Jupyter   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+JSON      25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+SQL       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

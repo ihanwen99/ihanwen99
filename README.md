@@ -8,14 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 1 min
+Total Time: 2 mins
 
-Other     45 mins         ████████████████████████░   95.98 %
-Python    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-CSV/TSV   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-CSV       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

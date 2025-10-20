@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 18 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-Total Time: 3 hrs
+Total Time: 4 hrs 36 mins
 
-Other      2 hrs 42 mins   ████████████░░░░░░░░░░░░░   47.41 %
-Python     2 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.46 %
-MATLAB     32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-textmate   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python     3 hrs 28 mins   ████████████░░░░░░░░░░░░░   47.38 %
+Other      2 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.07 %
+MATLAB     41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+textmate   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Jupyter    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->

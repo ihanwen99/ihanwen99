@@ -8,14 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 0 secs
 
-Other     4 hrs           ████████████████▓░░░░░░░░   67.27 %
-Python    1 hr 44 mins    ███████▒░░░░░░░░░░░░░░░░░   29.11 %
-MATLAB    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Jupyter   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other   4 hrs 16 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

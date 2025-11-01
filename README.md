@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 30 October 2025
+From: 24 October 2025 - To: 31 October 2025
 
-Total Time: 1 hr 43 mins
+Total Time: 2 hrs 8 mins
 
-Other    4 hrs 13 mins   █████████████████▓░░░░░░░   71.03 %
-Python   1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-CSV      36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Other    4 hrs 8 mins    ████████████████▒░░░░░░░░   65.97 %
+Python   1 hr 20 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+CSV      48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
 ```
 
 <!--END_SECTION:waka-->

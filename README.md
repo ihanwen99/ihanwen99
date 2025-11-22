@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
 Total Time: 4 mins
 
-Other    3 hrs 23 mins   ████████████████████████▒   97.75 %
-Text     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other    2 hrs 40 mins   ████████████████████████▒   97.15 %
+Text     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->

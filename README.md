@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 
-Total Time: 6 hrs 20 mins
+Total Time: 6 hrs 19 mins
 
-Python       5 hrs 37 mins   ████████████████░░░░░░░░░   64.62 %
-Other        2 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-CSV          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-SSH Config   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-CSV/TSV      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python       5 hrs 37 mins   ████████████████▓░░░░░░░░   66.98 %
+Other        2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+CSV          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+SSH Config   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+CSV/TSV      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->

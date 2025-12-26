@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-Total Time: 46 mins
+Total Time: 31 mins
 
-Other          4 hrs 10 mins   █████████████████████░░░░   84.37 %
-Python         37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Markdown       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-textmate       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Text           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Other          3 hrs 5 mins    █████████████████████▒░░░   85.53 %
+Python         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Markdown       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+textmate       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Text           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->

@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2026 - To: 27 March 2026
+From: 21 March 2026 - To: 28 March 2026
 
-Total Time: 2 hrs 42 mins
+Total Time: 2 hrs 53 mins
 
-Other          1 hr 4 mins           ███████░░░░░░░░░░░░░░░░░░   28.48 %
-HTML           41 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-TeX            41 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-Markdown       39 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-SSH Config     21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Other          1 hr 48 mins          █████████▓░░░░░░░░░░░░░░░   38.59 %
+HTML           41 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+TeX            41 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Markdown       39 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+SSH Config     21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 
 <!--END_SECTION:waka-->

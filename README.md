@@ -8,13 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Total Time: 1 min
+Total Time: 39 mins
 
-Other      4 hrs 14 mins         █████████████████████████   99.50 %
-Python     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other      5 hrs 29 mins         ██████████████████████▒░░   89.28 %
+TeX        23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Markdown   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Text       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->

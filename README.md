@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
 Total Time: 25 mins
 
-Markdown   25 mins               ██████████████████████░░░   87.98 %
-Other      3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Markdown   25 mins               █████████████▓░░░░░░░░░░░   54.37 %
+Other      21 mins               ███████████▒░░░░░░░░░░░░░   45.63 %
 ```
 
 <!--END_SECTION:waka-->

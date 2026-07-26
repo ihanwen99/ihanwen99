@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-Total Time: 2 hrs 19 mins
+Total Time: 2 hrs 22 mins
 
-HTML         1 hr 10 mins          ████████████▒░░░░░░░░░░░░   49.04 %
-Python       37 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Markdown     22 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-YAML         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-CSS          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+HTML         1 hr 10 mins          ███████████▓░░░░░░░░░░░░░   47.31 %
+Python       37 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+Markdown     23 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+Other        7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+YAML         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->

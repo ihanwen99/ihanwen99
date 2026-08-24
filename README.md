@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2026 - To: 22 August 2026
+From: 16 August 2026 - To: 23 August 2026
 
-Total Time: 1 hr 47 mins
+Total Time: 3 hrs 39 mins
 
-Markdown   1 hr 3 mins           ████████████░░░░░░░░░░░░░   48.59 %
-Docker     26 mins               █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Other      23 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Text       16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JSON       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown     2 hrs 53 mins         ███████████████▓░░░░░░░░░   62.06 %
+Other        59 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+Python       15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+HTML         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Text         11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
